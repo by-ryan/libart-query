@@ -1,0 +1,11 @@
+: 1
+name: libart-query
+version: 0.1.0-a.0.z
+language: c++
+summary: libart-query C++ library
+license: BSD-4-Clause
+description-file: README.md
+url: https://art.helloryan.se/
+email: art@helloryan.se
+depends: * build2 >= 0.17.0
+depends: * bpkg >= 0.17.0

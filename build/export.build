@@ -1,0 +1,6 @@
+$out_root/
+{
+  include art/query/
+}
+
+export $out_root/art/query/$import.target
